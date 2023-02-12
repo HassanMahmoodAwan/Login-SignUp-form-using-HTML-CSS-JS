@@ -12,3 +12,7 @@ The concepts which I learn through this projects are
 5- learning about the color schemes, how to make it responsive, developer tools in chrome.
 
 Thanks!
+
+
+![LOGIN-IMG](https://user-images.githubusercontent.com/125195617/218333751-73580848-b252-4602-94b9-f88629744278.png)
+![SIGN-UP-IMG](https://user-images.githubusercontent.com/125195617/218333752-b78633ad-ba9f-4ef5-a2e0-f480407089cb.png)
